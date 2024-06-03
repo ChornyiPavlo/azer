@@ -2075,7 +2075,7 @@
   backface-visibility: hidden;
   -moz-osx-font-smoothing: grayscale;
   position: relative;
-  background: rgba(248, 170, 39, 0.75);
+  background: rgba(248, 60, 60, 0.75);
   -webkit-transition-property: color;
   transition-property: color;
   -webkit-transition-duration: 0.3s;
