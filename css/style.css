@@ -2753,6 +2753,9 @@ section#testimonial_area_two {
 	font-size:14px;
 	font-weight:600;
 }
+.page_heading h3 a, .page_heading h3 {
+  color: #fff;
+}
 .page_titel h3 a:hover, #terms_area .great a:hover{
   color: #bd0000;
 }
