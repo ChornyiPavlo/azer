@@ -3065,6 +3065,7 @@ div#team_area {
 }
  .img-wrap img {
     background-size: cover;
+   object-fit: cover;
     width: 100%;
 	height:100%;
 }
