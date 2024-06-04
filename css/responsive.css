@@ -466,7 +466,7 @@
 		 height:70px;
 	 }
 	.stricky-fixed .nav > li > a {
-		color: #fff;
+		color: #111;
 		display: block;
 		font-family: Titillium Web;
 		font-size: 13px;
@@ -498,7 +498,7 @@
 		white-space: normal;
 	} 
 	.stricky-fixed .nav > li > a {
-		color: #fff;
+		color: #111;
 		display: block;
 		font-family: Titillium Web;
 		font-size: 13px;
@@ -1145,7 +1145,6 @@
 	  margin-top: 18px;
 	}
 	.stricky-fixed .navbar-collapse.collapse.in {
-	  margin-top: 7px;
 	  width: 96%;
 	}
 	.stricky-fixed .navbar-nav {
@@ -1153,7 +1152,7 @@
 	  margin: 5px;
 	}
 	.stricky-fixed .nav > li > a {
-	  color: #fff;
+	  color: #111;
 	  display: block;
 	  font-family: Titillium Web;
 	  font-size: 13px;
@@ -1216,7 +1215,6 @@
 	 
 	}
 	.navbar-collapse.collapse.in {
-	  margin-top: 24px;
 	  width: 96%;
 	}
 	.searec_area input {
@@ -2473,10 +2471,10 @@
 	}
  
 	.single_icon {
-	  float: none;
-	  height: 100%;
-	  margin: 0 36%;
-	  width: 90px;
+		float: right;
+		height: 100%;
+		margin: 10px 36%;
+		width: 90px;
 	} 
 	 
 	section#aboutus_area {

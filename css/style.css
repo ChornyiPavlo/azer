@@ -160,7 +160,7 @@ a, a:hover, a:active, a:focus {
     background: url(../img/home-1/header_bg.jpg) repeat;
 }
 .stricky-fixed .navbar-brand {
-    padding: 10px 15px;
+    padding: 0px 15px;
 }
 .stricky-fixed span.border {
   border: 3px solid #bd0000;
@@ -730,13 +730,12 @@ section#aboutus_area {
 	font-weight:500;
 }
 .choose_icon {
-    height: 60px;
-    overflow: hidden;
+    height: 80px;
     margin-bottom: 0;
     margin-top: 37px;
 }
 .choose_right {
-    width: 55%;
+    width: 80%;
     overflow: hidden;
 }
  
@@ -747,7 +746,7 @@ section#aboutus_area {
 	overflow:hidden;
 }
 .choose_text {
-    width: 50% !important;
+    width: 50%;
     float: left;
     background: #1b1b1b url(../img/home-1/Choose_us_bg.jpg);
     height: 540px;
@@ -960,7 +959,7 @@ section#service_area {
     font-family: 'Titillium Web', sans-serif;
     font-size: 30px;
     font-weight: 700;
-	color:#111;
+	  color:#111;
 }
 .head_title.service.text-center span {
     background: #ae8e1e;
