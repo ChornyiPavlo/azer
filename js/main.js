@@ -174,12 +174,12 @@
             map = new GMaps({
                 div: '.google-map',
                 scrollwheel: false,
-                lat: 23.732348591597123,
-                lng: 90.4129341360635,
+                lat: 40.37852065794597,
+                lng: 49.87444337590263,
             });
             map.addMarker({
-                lat: 23.732348591597123,
-                lng: 90.4129341360635,
+                lat: 40.37852065794597,
+                lng: 49.87444337590263,
                 title: 'Envato HeadQuarter'
             });  
 		};
