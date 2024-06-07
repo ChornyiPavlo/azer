@@ -2948,13 +2948,12 @@
  @media only screen and (min-width : 414px)  and (max-width : 736px){
 	
  }
-@media only screen and (min-width: 375px) and (max-width: 667px) { 
-	 
+@media only screen and (min-width: 375px) and (max-width: 667px) {
+
 	.copy_right {
-	  float: none;
-	  margin: 0 30% !important;
-	  padding-bottom: 0 !important;
-	  text-align: center;
+		margin: 0 !important;
+		justify-content: center;
+		display: flex;
 	}
 	.single_footer h2 {
 	  border: 2px solid #fff;

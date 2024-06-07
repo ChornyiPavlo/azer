@@ -2008,7 +2008,7 @@ a.logo {
     justify-content: center;
   }
 
-  .copy_left ul:first-child {
+  .copy_left ul li:first-child {
     width: 50%;
   }
   .copy_right {
