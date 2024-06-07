@@ -2007,6 +2007,15 @@ a.logo {
     display: flex;
     justify-content: center;
   }
+
+  .copy_left ul:first-child {
+    width: 50%;
+  }
+  .copy_right {
+    margin: 0 !important;
+    justify-content: center;
+    display: flex;
+  }
 }
 @media (min-width: 767px) {
   .nav-side-menu .menu-list .menu-content {
