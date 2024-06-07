@@ -2401,6 +2401,9 @@
 	  padding-bottom: 0 !important;
 	  text-align: center;
 	}
+	.copy_left ul li:first-child {
+		width: 35%;
+	}
 	.navbar-toggle {
 	  background-color: transparent;
 	  border: 1px solid #f8aa27;
