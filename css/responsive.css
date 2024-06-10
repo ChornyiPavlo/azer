@@ -1378,9 +1378,6 @@
 	.single_time_line.single_right {
 	  padding-left: 75px;
 	}
-	.circle_bg_three { 
-	  width: 53px;
-	} 
 	.circle_bg_three {
 	  left: 0;
 	  margin-left: 6%;
@@ -2568,7 +2565,7 @@
 	}
 	.circle_bg_three {
 	  left: 0;
-	  margin-left:16%;
+	  margin-left:10%;
 	}
 	.circle_bg_foure {
 	  left: 0;
